@@ -144,6 +144,89 @@ p{
 .section-3 p{
   
     font-weight: 500;
+    margin-bottom: 40px;
+
+}
+.three-box{
+    display: flex;
+    margin-left: 307px;
+
+    
+}
+.food-box{
+    background-color:#70a1ff;
+    width: 400px;
+    margin-left:20px;
+    height: 300px;
+    text-align: left;
+    padding: 10px;
+
+}
+.food-box h1{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.food-box p{
+   color: rgb(53, 50, 50);
+   font-weight: 500;
+}
+
+.food-box2{
+    background-color: #2e7fcf;
+    width: 400px;
+    margin-left:20px;
+    height: 300px;
+    text-align: left;
+    padding: 10px;
+
+}
+.food-box2 h1{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.food-box2 p{
+   color: rgb(53, 50, 50);
+   font-weight: 500;
+}
+
+.food-box3{
+    background-color: #7d69d8;
+    width: 400px;
+    margin-left:20px;
+    height: 300px;
+    text-align: left;
+    padding: 10px;
+
+}
+.food-box3 h1{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.food-box3 p{
+   color: rgb(22, 22, 22);
+   font-weight: 500;
+}
+
+
+.food-box img{
+    margin-top: 48px;
+    height: 80px;
+    margin-bottom: 30px;
+
+}
+.food-box2 img{
+    margin-top: 48px;
+    height: 80px;
+    margin-bottom: 30px;
+
+}
+.food-box3 img{
+    margin-top: 48px;
+    height: 80px;
+    margin-bottom: 30px;
 
 }
 
