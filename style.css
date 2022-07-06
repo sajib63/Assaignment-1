@@ -301,6 +301,35 @@ p{
 
 
 .section-5{
+
+    margin-bottom: 100px;
    
 }
-
+.section-5 h1{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.section-5 p{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.subscribe{
+    background-color: #dfe6e9;
+    width: 922px;
+    height: 216px;
+}
+input{
+    margin-top: 83px;
+    padding: 10px;
+    width: 232px;
+    background-color: rgb(236, 231, 231);
+    border: 1px solid rgb(236, 231, 231) ;
+}
+#input{
+    padding: 10px;
+    width: 134px;
+    border-radius: 5px;
+    background-color: rgb(238, 70, 70);
+    border: 1px solid rgb(238, 70, 70);
+}
